@@ -35,3 +35,6 @@ git branch -d nameOfTheBranch<br>
 git remote add origin https://github.com/nameOfTheRepository //Add the git to the online repository in the GitHub<br>
 git remote -v   //Show all the online repositories<br>
 git push -u origin master<br>
+<br>
+git pull origin master      //Bring from Github to your local git<br>
+git clone https://github.com/nameOfTheRepository  //To clone a repository from GitHub to a empty directory 
